@@ -1,0 +1,6 @@
+{
+  "name": "RK Capotaria - Revestimentos Automotivos",
+  "description": "Website institucional premium e de alta conversão para RK Capotaria e Revestimentos Automotivos em Olinda - PE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
